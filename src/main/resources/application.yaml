@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+# token
+token:
+  privateKey: '123456'
+  yangToken: 1000
+  oldToken: 3000
+
